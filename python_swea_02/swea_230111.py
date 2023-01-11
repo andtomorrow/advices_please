@@ -1,5 +1,5 @@
-import sys
-sys.stdin = open('python_swea_02/input.txt', 'r')
+# import sys
+# sys.stdin = open('python_swea_02/input.txt', 'r')
 
 # Q1. 공백으로 구분된 정수
 # print(*map(int, input().split()))
